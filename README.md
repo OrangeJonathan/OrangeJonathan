@@ -1,5 +1,6 @@
 [jonathankat.nl](https://www.jonathankat.nl)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/72ded383-490a-4f1c-93c5-d563d3dc116c/deploy-status)](https://app.netlify.com/sites/portfoliojonathankat/deploys)
 <!--
 **OrangeJonathan/OrangeJonathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
